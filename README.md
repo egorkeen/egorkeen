@@ -3,7 +3,7 @@
 Меня зовут Егор. Я начинающий frontend-разработчик из Ростова-на-Дону 😎
 
 ## Связь со мной 📱
-<a href="https://vk.com/egor.keen"><img src="https://img.shields.io/badge/Вконтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/></a> <a href="https://t.me/egorkeen"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+<a href="https://vk.com/egor.keen"><img src="https://img.shields.io/badge/Вконтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/></a> <a href="https://t.me/egorkeen"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a> <a href="mailto:egor.keen@mail.ru"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Mail.ru Badge"/></a>
 
 - Мне нравится разрабатывать веб-приложения с использованием React 🔥
 - Всегда готов выслушать советы и предложения для доработки кода 🌱
